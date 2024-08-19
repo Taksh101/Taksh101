@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Taksh101.
 - 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning (HTML,JavaScript,CSS), Java, Python.
-- 👨‍💻 I already know C language very well.
+- 👨‍💻 I already know HTML, CSS, JS, React, Express, Node, Next  very well.
 
 
 <!---
