@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi there! 👋
 
-<!--
-**Taksh101/Taksh101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering Student and an Aspiring Full-Stack Developer passionate about creating impactful digital experiences. I enjoy solving problems through code, exploring new technologies, and continuously expanding my skills.
 
-Here are some ideas to get you started:
+🚀 Technologies I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: HTML, CSS, JavaScript, Tailwind CSS
+
+Backend: Node.js, Express.js, Django
+
+Database: MongoDB, MySQL
+
+Other Skills: Python, Java, Git, GitHub
+
+🌱 What I'm Working On
+
+Enhancing my skills in MERN Stack and Django
+
+Building real-world projects to apply my learning
+
+Exploring best practices in full-stack development
+
+📌 Featured Projects
+
+SmartSpend: An expense tracking application with insights and reports.
+
+More projects coming soon!
