@@ -14,6 +14,6 @@ I'm a **Computer Engineering Student** and an **Aspiring Full-Stack Developer** 
 - Exploring best practices in full-stack development
 
 ## 📌 Featured Projects
-- [**SmartSpend**](#): An expense tracking application with insights and reports.
+- **SmartSpend** : An expense tracking application with insights and reports.
 - More projects coming soon!
 
