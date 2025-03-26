@@ -17,8 +17,3 @@ I'm a **Computer Engineering Student** and an **Aspiring Full-Stack Developer** 
 - [**SmartSpend**](#): An expense tracking application with insights and reports.
 - More projects coming soon!
 
-## 📫 Let's Connect
-- **GitHub:** You're already here! 😊
-- *(Optional)* Add LinkedIn or Portfolio link when ready
-
-Thanks for stopping by! Keep coding and stay curious. ✨
