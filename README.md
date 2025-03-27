@@ -3,7 +3,7 @@
 I'm a **Computer Engineering Student** and an **Aspiring Full-Stack Developer** passionate about creating impactful digital experiences. I enjoy solving problems through code, exploring new technologies, and continuously expanding my skills.
 
 ## 🚀 Technologies I Work With
-- **Frontend:** HTML, CSS, JavaScript, Tailwind CSS
+- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap
 - **Backend:** Node.js, Express.js, Django
 - **Database:** MongoDB, MySQL
 - **Other Skills:** Python, Java, Git, GitHub
