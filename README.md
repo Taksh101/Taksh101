@@ -4,9 +4,9 @@ I'm a **Computer Engineering Student** and an **Aspiring Full-Stack Developer** 
 
 ## 🚀 Technologies I Work With
 - **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap
-- **Backend:** Node.js, Express.js, Django
+- **Backend:** Node.js, Express.js, Django, PHP
 - **Database:** MongoDB, MySQL
-- **Other Skills:** Python, Java, Git, GitHub
+- **Other Skills:** Python, Java, C, C#, WordPress, Git, GitHub
 
 ## 🌱 What I'm Working On
 - Enhancing my skills in **MERN Stack** and **Django**
