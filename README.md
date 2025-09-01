@@ -19,7 +19,7 @@ MongoDB · MySQL · Firebase
 Flutter  
 
 **Other Skills:**  
-Python · Java · C · C# · WordPress · Git · GitHub  
+Python · Java · C · C# · Dart · WordPress · Git · GitHub  
 
 ---
 
