@@ -19,7 +19,7 @@ MongoDB · MySQL · Firebase
 Flutter  
 
 **Other Skills:**  
-Python · Java · C · C# · Dart · WordPress · Git · GitHub  
+Python · Java · C · C++ · C# · Dart · WordPress · Git · GitHub  
 
 ---
 
@@ -38,6 +38,12 @@ Python · Java · C · C# · Dart · WordPress · Git · GitHub
 - **FurEver** 🐾  
   A pet adoption system that connects users with NGOs to find loving homes for animals.  
 
+- **Memelusion** 📱  
+  A social meme-sharing and chatting application. 
+
+- **MediConnect** 🏥  
+  A modern website for seamless doctor appointment booking and patient management.
+  
 More exciting projects coming soon! ✨  
 
 ---
